@@ -1,4 +1,4 @@
-# Lens Pro Max
+# Multimodal-Search-Engine
 
 Lens Pro Max is an advanced image analysis and web search tool that combines computer vision and natural language processing to generate accurate web queries based on user input and image content.
 
